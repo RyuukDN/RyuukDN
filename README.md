@@ -1,29 +1,31 @@
 <div align="center">
 
-# 🧑‍💻 SOFTWARE ENGINEER PROFILE
+# 🧑‍💻 Welcome to my profile!
 
-```html
-       _                             _ _                     
-
-      | |                           (_) |                    
-   ___| |mgG9_-_ _  _ __ ___   __ _  _| |_ ___  _   _ _ __   
-  / __| '_ \ / _` |/ _` '_ \ / _` |/ / __/ _ \| | | | '_ \  
-  \__ \ | | | (_| | (_| | | | | (_| | | | || (_) | |_| | | | |
-
-  |___/_| |_|\__,_|\__,_| |_|  \__,_|_|_|\__\___/ \__,_|_| |_|
-```
-
-## 🌌 Мой девиз / Motto
-
-> ### **未知に学び、解を創る。**
-> *«Учусь у неизвестного, создаю решения».*
-
-> ### **LEARNING THE NEW, BUILDING SOLUTIONS.**
+<!-- Dynamic profile views counter -->
+![](https://komarev.com)
 
 ---
 
-### 🛠️ Мой стек и инструменты
-<!-- Здесь вы можете перечислить свои технологии -->
-`Python` • `JavaScript` • `TypeScript` • `Docker` • `Git`
+## 🌌 Motto
+
+### **未知に学び、解を創る。**
+### **LEARNING THE NEW, BUILDING SOLUTIONS.**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<!-- Tech badges: Python, C, C++ -->
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- Automated account statistics -->
+![](https://vercel.app)
+
+![](https://vercel.app)
 
 </div>
