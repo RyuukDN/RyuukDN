@@ -3,9 +3,7 @@
 <td width="55%" align="left" valign="middle">
 
 <h1 align="center">
-Hi
-<img src="hi.gif" width="35" alt="Hi">
-, I'm RyuukDN
+Hi, I'm RyuukDN
 </h1>
 
 <h3 align="center">
@@ -24,7 +22,7 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 </td>
 <td width="45%" align="center" valign="middle">
 
-<!-- Локальная гифка кодинга -->
+<!-- Anime coding animation from repository -->
 <img src="coding.gif.gif" width="420" alt="RyuukDN Coding Animation">
 
 </td>
@@ -35,12 +33,12 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 
 ## 🛠️ 技術スタック & ツール / Tech Stack & Tools
 
-  <img src="python.svg" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="c.svg" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="cplusplus.svg" height="40" alt="C++" />&nbsp;&nbsp;
-  <img src="linux.svg" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="arduino.svg" height="40" alt="Arduino" />&nbsp;&nbsp;
-  <img src="modbus.svg" height="40" alt="Modbus" />
+  <img src="images.png" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="C_Logo.png" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="images (1).png" height="40" alt="C++" />&nbsp;&nbsp;
+  <img src="Linux_mascot_tux.png" height="40" alt="Linux" />&nbsp;&nbsp;
+  <img src="arduino-1-logo-png-transparent.png" height="40" alt="Arduino" />&nbsp;&nbsp;
+  <img src="images (2).png" height="40" alt="Modbus" />
 
 </div>
 
