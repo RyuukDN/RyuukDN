@@ -4,7 +4,7 @@
 
 <h1 align="center">
 Hi
-<img src="https://githubusercontent.com" width="35">
+<img src="hi.gif" width="35" alt="Hi">
 , I'm RyuukDN
 </h1>
 
@@ -21,14 +21,10 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
   <font color="#ffee00" size="4"><b>LEARNING THE NEW, BUILDING SOLUTIONS.</b></font>
 </p>
 
-<p align="center">
-<img src="https://komarev.com" alt="Views">
-</p>
-
 </td>
 <td width="45%" align="center" valign="middle">
 
-<!-- Anime coding animation from repository -->
+<!-- Локальная гифка кодинга -->
 <img src="coding.gif.gif" width="420" alt="RyuukDN Coding Animation">
 
 </td>
@@ -39,12 +35,12 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 
 ## 🛠️ 技術スタック & ツール / Tech Stack & Tools
 
-  <img src="https://jsdelivr.net" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="Arduino" />&nbsp;&nbsp;
-  <img src="https://simpleicons.org" height="40" alt="Modbus" />
+  <img src="python.svg" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="c.svg" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="cplusplus.svg" height="40" alt="C++" />&nbsp;&nbsp;
+  <img src="linux.svg" height="40" alt="Linux" />&nbsp;&nbsp;
+  <img src="arduino.svg" height="40" alt="Arduino" />&nbsp;&nbsp;
+  <img src="modbus.svg" height="40" alt="Modbus" />
 
 </div>
 
@@ -52,22 +48,6 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 
 <div align="center">
   <h2>アカウント連携 / Connect with me</h2>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://vercel.app" />
-  <img src="https://demolab.com" height="160em" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-<p align="center">
-  <img src="https://vercel.app"/>
-</p>
+  
+  [**GitHub Profile**](https://github.com)
 </div>
