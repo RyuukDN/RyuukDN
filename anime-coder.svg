@@ -1,28 +1,55 @@
 <svg xmlns="http://w3.org" viewBox="0 0 800 300" width="100%">
   <style>
-    :root { --bg: #0d1117; --text-main: #58a6ff; --text-sub: #8b949e; --accent: #ff79c6; --grid: rgba(56, 139, 253, 0.15); }
-    @media (prefers-color-scheme: light) { :root { --bg: #ffffff; --text-main: #0969da; --text-sub: #57606a; --accent: #cf222e; --grid: rgba(9, 105, 218, 0.1); } }
-    @keyframes scrollGrid { 0% { transform: translateY(0); } 100% { transform: translateY(40px); } }
-    .grid-lines { animation: scrollGrid 3s linear infinite; }
-    @keyframes typeCode { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
+    :root {
+      --bg: #0d1117;
+      --text-main: #58a6ff;
+      --text-sub: #8b949e;
+      --accent: #ff79c6;
+      --grid: rgba(56, 139, 253, 0.15);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #ffffff;
+        --text-main: #0969da;
+        --text-sub: #57606a;
+        --accent: #cf222e;
+        --grid: rgba(9, 105, 218, 0.1);
+      }
+    }
+    @keyframes scrollGrid {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(40px); }
+    }
+    .grid-lines {
+      animation: scrollGrid 3s linear infinite;
+    }
+    @keyframes typeCode {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 1; }
+    }
     .code-line { animation: typeCode 2s ease-in-out infinite; }
     .line-2 { animation-delay: 0.5s; }
     .line-3 { animation-delay: 1s; }
   </style>
+
   <rect width="100%" height="100%" fill="var(--bg)" rx="10" />
+
   <g opacity="0.6">
     <g class="grid-lines">
       <path d="M0,0 L800,0 M0,40 L800,40 M0,80 L800,80 M0,120 L800,120 M0,160 L800,160 M0,200 L800,200 M0,240 L800,240 M0,280 L800,280 M0,320 L800,320" stroke="var(--grid)" stroke-width="1" />
     </g>
     <path d="M400,0 L0,300 M400,0 L100,300 M400,0 L200,300 M400,0 L300,300 M400,0 L400,300 M400,0 L500,300 M400,0 L600,300 M400,0 L700,300 M400,0 L800,300" stroke="var(--grid)" stroke-width="1" />
   </g>
+
   <rect x="20" y="20" width="12" height="12" fill="var(--accent)" opacity="0.7"/>
   <text x="40" y="31" fill="var(--text-sub)" font-family="monospace" font-size="12">SYSTEM: ACTIVE</text>
+
   <g font-family="monospace" font-size="14" fill="var(--text-main)" opacity="0.15">
     <text x="50" y="80" class="code-line">while (learning) { explore(); }</text>
     <text x="50" y="110" class="code-line line-2">if (problem) { createSolution(); }</text>
     <text x="50" y="140" class="code-line line-3">git commit -m "build future"</text>
   </g>
+
   <text x="400" y="145" text-anchor="middle" font-size="32" fill="var(--accent)" font-family="sans-serif" font-weight="bold">未知に学び、解を創る。</text>
   <text x="400" y="195" text-anchor="middle" font-size="18" fill="var(--text-main)" font-family="monospace" font-weight="bold">LEARNING THE NEW, BUILDING SOLUTIONS</text>
   <text x="400" y="230" text-anchor="middle" font-size="13" fill="var(--text-sub)" font-family="monospace">[ SOFTWARE ENGINEER ]</text>
