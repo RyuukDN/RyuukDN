@@ -3,11 +3,11 @@
 # 🧑‍💻 Welcome to my profile!
 
 <!-- Dynamic profile views counter -->
-![](https://komarev.com)
+<img src="https://komarev.com" alt="Views" />
 
 ---
 
-## 🌌 Motto
+## 🌌 RyuukDN
 
 ### **未知に学び、解を創る。**
 ### **LEARNING THE NEW, BUILDING SOLUTIONS.**
@@ -16,16 +16,18 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<!-- Tech badges: Python, C, C++ -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+<!-- Fixed tech badges: Python, C, C++ -->
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="C" />
+<img src="https://shields.io" alt="C++" />
 
 ---
 
 ## 📊 GitHub Analytics
 
 <!-- Automated account statistics -->
-![](https://vercel.app)
+<img src="https://vercel.app" alt="GitHub Stats" />
 
-![](https://vercel.app)
+<img src="https://vercel.app" alt="Top Langs" />
 
 </div>
