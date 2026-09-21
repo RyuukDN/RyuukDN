@@ -1,50 +1,73 @@
 <table width="100%">
 <tr>
-<td width="60%" align="left" valign="top">
+<td width="55%" align="left" valign="middle">
 
-# Hi 👋, I'm RyuukDN
+<h1 align="center">
+Hi
+<img src="https://githubusercontent.com" width="35">
+, I'm RyuukDN
+</h1>
 
-### 🧑‍💻 Software Engineer • Embedded Systems Developer • Automation Enthusiast
+<h3 align="center">
+ソフトウェアエンジニア • 組込みシステム開発者 • 自動化エンジニア
+</h3>
 
-> 🌌 **未知に学び、解を創る。**
-> 
-> 🌌 **LEARNING THE NEW, BUILDING SOLUTIONS.**
+<h4 align="center" style="opacity: 0.8;">
+Software Engineer • Embedded Systems Developer • Automation Enthusiast
+</h4>
 
----
+<p align="center">
+  <font color="#ffee00" size="5"><b>未知に学び、解を創る。</b></font><br>
+  <font color="#ffee00" size="4"><b>LEARNING THE NEW, BUILDING SOLUTIONS.</b></font>
+</p>
 
-### 🛠️ Tech Stack & Tools
-
-* 🐍 **Languages:** `Python` | `C` | `C++`
-* 🐧 **OS & Hardware:** `Linux` | `Arduino`
-* 🔌 **Protocols:** `Modbus` / Industrial Automation
+<p align="center">
+<img src="https://komarev.com" alt="Views">
+</p>
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-```yaml
-RyuukDN:
-  status: "ACTIVE"
-  mode: "CYBERPUNK"
-  learning: true
-  solutions: true
-```
+<!-- Anime coding animation from repository -->
+<img src="coding.gif.gif" width="420" alt="RyuukDN Coding Animation">
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## 📊 GitHub Analytics
+## 🛠️ 技術スタック & ツール / Tech Stack & Tools
 
-```text
-[ Exploring new horizons, writing efficient code, and engineering reliable solutions ]
-```
+  <img src="https://jsdelivr.net" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="C" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="C++" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="Linux" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" height="40" alt="Arduino" />&nbsp;&nbsp;
+  <img src="https://simpleicons.org" height="40" alt="Modbus" />
 
-### 🤝 Connect with me
+</div>
 
-[**GitHub Profile**](https://github.com)
+###
 
+<div align="center">
+  <h2>アカウント連携 / Connect with me</h2>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" height="35" alt="github logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://vercel.app" />
+  <img src="https://demolab.com" height="160em" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+<p align="center">
+  <img src="https://vercel.app"/>
+</p>
 </div>
