@@ -14,11 +14,6 @@ Hi, I'm RyuukDN
 Software Engineer • Embedded Systems Developer • Automation Enthusiast
 </h4>
 
-<p align="center">
-  <h3 align="center"><span style="color: #ffee00;"><b>未知に学び、解を創る。</b></span></h3>
-  <h4 align="center"><span style="color: #ffee00;"><b>LEARNING THE NEW, BUILDING SOLUTIONS.</b></span></h4>
-</p>
-
 </td>
 <td width="45%" align="center" valign="middle">
 
@@ -31,6 +26,11 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 
 <div align="center">
 
+### ` 未知に学び、解を創る。 `
+### ` LEARNING THE NEW, BUILDING SOLUTIONS. `
+
+---
+
 ## 🛠️ 技術スタック & ツール / Tech Stack & Tools
 
   <img src="images.png" height="40" alt="Python" />&nbsp;&nbsp;
@@ -40,12 +40,10 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
   <img src="arduino-1-logo-png-transparent.png" height="40" alt="Arduino" />&nbsp;&nbsp;
   <img src="images (2).png" height="40" alt="Modbus" />
 
-</div>
+---
 
-###
+## アカウント連携 / Connect with me
 
-<div align="center">
-  <h2>アカウント連携 / Connect with me</h2>
-  
-  [**GitHub Profile**](https://github.com)
+[**GitHub Profile**](https://github.com)
+
 </div>
