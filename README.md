@@ -15,8 +15,8 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
 </h4>
 
 <p align="center">
-  <font color="#ffee00" size="5"><b>未知に学び、解を創る。</b></font><br>
-  <font color="#ffee00" size="4"><b>LEARNING THE NEW, BUILDING SOLUTIONS.</b></font>
+  <h3 align="center"><span style="color: #ffee00;"><b>未知に学び、解を創る。</b></span></h3>
+  <h4 align="center"><span style="color: #ffee00;"><b>LEARNING THE NEW, BUILDING SOLUTIONS.</b></span></h4>
 </p>
 
 </td>
