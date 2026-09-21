@@ -2,9 +2,6 @@
 
 # 🧑‍💻 Welcome to my profile!
 
-<!-- Dynamic profile views counter -->
-<img src="https://komarev.com" alt="Views" />
-
 ---
 
 ## 🌌 RyuukDN
@@ -16,18 +13,12 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<!-- Fixed tech badges: Python, C, C++ -->
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="C" />
-<img src="https://shields.io" alt="C++" />
+` Python ` &nbsp; ` C ` &nbsp; ` C++ `
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- Automated account statistics -->
-<img src="https://vercel.app" alt="GitHub Stats" />
-
-<img src="https://vercel.app" alt="Top Langs" />
+*Constantly exploring new horizons, writing efficient code, and engineering reliable solutions.*
 
 </div>
