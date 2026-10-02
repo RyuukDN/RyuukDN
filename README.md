@@ -39,6 +39,9 @@ Software Engineer • Embedded Systems Developer • Automation Enthusiast
   <img src="Linux_mascot_tux.png" height="40" alt="Linux" />&nbsp;&nbsp;
   <img src="arduino-1-logo-png-transparent.png" height="40" alt="Arduino" />&nbsp;&nbsp;
   <img src="images (2).png" height="40" alt="Modbus" />
+  <img src="RTOS.png" height="40" alt="RTOS" />
+  <img src="milkv.png" height="40" alt="milkv" />
+  <img src="Risc-v.png" height="40" alt="Modbus" />
 
 ---
 
